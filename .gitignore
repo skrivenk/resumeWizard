@@ -1,0 +1,17 @@
+# Ignore API environment file
+api.env
+
+# Ignore Python virtual environment
+.venv/
+
+# Ignore PyCharm and IDE settings
+.idea/
+
+# Ignore build and executable files
+dist/
+build/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
