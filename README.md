@@ -12,6 +12,7 @@ To download this project, run:
 ```sh
 git clone https://github.com/skrivenk/resumeWizard.git
 cd resumeWizard
+```
 
 ## How to Use
 1.  Paste a job description.
@@ -23,3 +24,4 @@ cd resumeWizard
 ```sh
 pip install -r requirements.txt
 python main.py
+```
